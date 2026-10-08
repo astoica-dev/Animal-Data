@@ -174,7 +174,7 @@ Accuracy: 1.0000
 The full classification documentation is available in:
 
 ```text
-docs/ml_classification.md
+docs/classification_log.md
 ```
 
 The classification report is saved to:
@@ -267,7 +267,7 @@ data/output/ml/clustering_report.txt
 Clone the repository and move into the project folder:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/astoica-dev/Animal-Data.git
 cd Animal-Data
 ```
 
