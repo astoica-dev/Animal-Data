@@ -1,6 +1,6 @@
 # Animal-Data
 
-Anymal-Data is a Python data pipeline project for cleaning, processing, and analysing animal observation data.
+Animal-Data is a Python data pipeline project for cleaning, processing, and analysing animal observation data.
 
 The project takes a raw animal dataset, performs data cleaning and standardisation, saves the cleaned data in CSV and Excel formats, and then applies machine learning techniques to explore the cleaned dataset.
 
@@ -37,7 +37,7 @@ Clustering     → group animals based on physical measurements
 ## Folder Structure
 
 ```text
-Anymal-Data/
+Animal-Data/
 │
 ├── data/
 │   ├── input/
@@ -268,7 +268,7 @@ Clone the repository and move into the project folder:
 
 ```bash
 git clone <repository-url>
-cd Anymal-Data
+cd Animal-Data
 ```
 
 Create a virtual environment:
